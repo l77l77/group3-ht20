@@ -33,7 +33,7 @@
 
 ####  First Draw of UI prototype
 
-![Home page](<img src="https://github.com/l77l77/group3-ht20/blob/main/Relese%202/UI/ui_home_page.png" width="50%")Home page
+![Home page](https://github.com/l77l77/group3-ht20/blob/main/Relese%202/UI/ui_home_page.png)Home page
 
 ![Search](https://github.com/l77l77/group3-ht20/blob/main/Relese%202/UI/ui_search.png)
 
