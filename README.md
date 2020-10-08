@@ -31,6 +31,14 @@
 
 #### [ICC workshop](https://github.com/l77l77/group3-ht20/tree/main/Results%20of%20Individual%20team%20Assessment%20and%20ICC%20workshop)
 
+####  First Draw of UI prototype
+
+* [Home page](https://github.com/l77l77/group3-ht20/blob/main/Relese%202/UI/ui_home_page.png)
+* [Search](https://github.com/l77l77/group3-ht20/blob/main/Relese%202/UI/ui_search.png)
+* [Accomodation](https://github.com/l77l77/group3-ht20/blob/main/Relese%202/UI/ui_accomodation.png)
+* [Confirm and Pay](https://github.com/l77l77/group3-ht20/blob/main/Relese%202/UI/ui_confirm_pay.png)
+* [My page](https://github.com/l77l77/group3-ht20/blob/main/Relese%202/UI/ui_my_page.png)
+
 
 
 
