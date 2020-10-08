@@ -33,7 +33,8 @@
 
 ####  First Draw of UI prototype
 
-* [Home page](https://github.com/l77l77/group3-ht20/blob/main/Relese%202/UI/ui_home_page.png)
+![Home page](https://github.com/l77l77/group3-ht20/blob/main/Relese%202/UI/ui_home_page.png)
+
 * [Search](https://github.com/l77l77/group3-ht20/blob/main/Relese%202/UI/ui_search.png)
 * [Accomodation](https://github.com/l77l77/group3-ht20/blob/main/Relese%202/UI/ui_accomodation.png)
 * [Confirm and Pay](https://github.com/l77l77/group3-ht20/blob/main/Relese%202/UI/ui_confirm_pay.png)
