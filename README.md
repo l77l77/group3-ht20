@@ -18,9 +18,9 @@
 
 #### Release 2
 
-* [Update Team Agreement](https://github.com/l77l77/group3-ht20/blob/main/Relese%202/DAT%20231%20Team%20Agreement-2.docx)
-* [Experience Report For R2](https://github.com/l77l77/group3-ht20/blob/main/Relese%202/DAT231___Experience_report-1.pdf)
-* [RS For R2](https://github.com/l77l77/group3-ht20/blob/main/Relese%202/DAT231___Requirements_specification-1.pdf)
+* [Update Team Agreement](https://github.com/l77l77/group3-ht20/blob/main/Release%202/DAT%20231%20Team%20Agreement-2.docx)
+* [Experience Report For R2](https://github.com/l77l77/group3-ht20/blob/main/Release%202/DAT231___Experience_report-1.pdf)
+* [RS For R2](https://github.com/l77l77/group3-ht20/blob/main/Release%202/DAT231___Requirements_specification-1.pdf)
 * [Interview](https://github.com/l77l77/group3-ht20/tree/main/Interview)
 * [Traceability](https://github.com/l77l77/group3-ht20/blob/main/Traceability/Discussion%20Traceability%20during%20the%20lecture.docx)
 * [First Draw of UI prototype](#jump)
