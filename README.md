@@ -40,15 +40,15 @@
 
 ###### <span id="jump">Display </span>
 
-Home page![Home page](https://github.com/l77l77/group3-ht20/blob/main/Relese%202/UI/ui_home_page.png)
+Home page![Home page](https://github.com/l77l77/group3-ht20/blob/main/Release%202/UI/ui_home_page.png)
 
-Search![Search](https://github.com/l77l77/group3-ht20/blob/main/Relese%202/UI/ui_search.png)
+Search![Search](https://github.com/l77l77/group3-ht20/blob/main/Release%202/UI/ui_search.png)
 
-Accommodation![Accommodation](https://github.com/l77l77/group3-ht20/blob/main/Relese%202/UI/ui_accomodation.png)
+Accommodation![Accommodation](https://github.com/l77l77/group3-ht20/blob/main/Release%202/UI/ui_accomodation.png)
 
-Confirm and Pay![Confirm and Pay](https://github.com/l77l77/group3-ht20/blob/main/Relese%202/UI/ui_confirm_pay.png)
+Confirm and Pay![Confirm and Pay](https://github.com/l77l77/group3-ht20/blob/main/Release%202/UI/ui_confirm_pay.png)
 
-My page![My page](https://github.com/l77l77/group3-ht20/blob/main/Relese%202/UI/ui_my_page.png)
+My page![My page](https://github.com/l77l77/group3-ht20/blob/main/Release%202/UI/ui_my_page.png)
 
 
 
