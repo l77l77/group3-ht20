@@ -24,11 +24,13 @@
 * [Interview](https://github.com/l77l77/group3-ht20/tree/main/Interview)
 * [Traceability](https://github.com/l77l77/group3-ht20/blob/main/Traceability/Discussion%20Traceability%20during%20the%20lecture.docx)
 * [First Draw of UI prototype](#jump)
+* [Feedback of Release 2 ](https://github.com/l77l77/group3-ht20/blob/main/Release%202/Feedback%20of%20Release%202.pdf)
+* [Summary of Feedback from Muke](https://github.com/l77l77/group3-ht20/blob/main/Discuss%20with%20Muke/Overall%20Feedback%20of%20Release%202%20from%20Muke.pdf)
 
 #### Release 3
 
 * [Peer Review](https://github.com/l77l77/group3-ht20/tree/main/Release%203/Peer%20Review)
-* Presentation
+* [Presentation](https://github.com/l77l77/group3-ht20/blob/main/Release%203/Project%20presentation/Project_presentation.pdf)
 
 #### [ICC workshop](https://github.com/l77l77/group3-ht20/tree/main/Results%20of%20Individual%20team%20Assessment%20and%20ICC%20workshop)
 
