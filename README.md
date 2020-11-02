@@ -31,6 +31,9 @@
 
 * [Peer Review](https://github.com/l77l77/group3-ht20/tree/main/Release%203/Peer%20Review)
 * [Presentation](https://github.com/l77l77/group3-ht20/blob/main/Release%203/Project%20presentation/Project_presentation.pdf)
+* [Final Draw of UI](https://github.com/l77l77/group3-ht20/tree/main/Release%203/Final%20UI)
+* [Requirement Specification for R3](https://github.com/l77l77/group3-ht20/blob/main/Release%203/Final%20Hand%20in/DAT231___Requirements_specification%20(1).pdf)
+* [Experience Report for R3](https://github.com/l77l77/group3-ht20/blob/main/Release%203/Final%20Hand%20in/DAT231___Experience_report.pdf)
 
 #### [ICC workshop](https://github.com/l77l77/group3-ht20/tree/main/Results%20of%20Individual%20team%20Assessment%20and%20ICC%20workshop)
 
@@ -53,6 +56,18 @@ Accommodation![Accommodation](https://github.com/l77l77/group3-ht20/blob/main/Re
 Confirm and Pay![Confirm and Pay](https://github.com/l77l77/group3-ht20/blob/main/Release%202/UI/ui_confirm_pay.png)
 
 My page![My page](https://github.com/l77l77/group3-ht20/blob/main/Release%202/UI/ui_my_page.png)
+
+---
+
+---
+
+---
+
+Final UI
+
+Verify Diagram[Verify](https://github.com/l77l77/group3-ht20/blob/main/Release%203/Final%20UI/ui_verify_diagram.pdf)
+
+
 
 
 
