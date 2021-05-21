@@ -1,4 +1,4 @@
-# Group3 HT20
+# Requirements Engineering, Project - Group 3, HT20
 
 ## Contents
 
@@ -39,45 +39,13 @@
 
 [Course Literature](https://github.com/l77l77/group3-ht20/blob/main/Course%20literature/Lauesen_2002_-_Software_Requirements_-_Styles__Techniques%20(2).pdf)
 
-***
-
-***
-
-***
-
-###### <span id="jump">Display </span>
-
-Home page![Home page](https://github.com/l77l77/group3-ht20/blob/main/Release%202/UI/ui_home_page.png)
-
-Search![Search](https://github.com/l77l77/group3-ht20/blob/main/Release%202/UI/ui_search.png)
-
-Accommodation![Accommodation](https://github.com/l77l77/group3-ht20/blob/main/Release%202/UI/ui_accomodation.png)
-
-Confirm and Pay![Confirm and Pay](https://github.com/l77l77/group3-ht20/blob/main/Release%202/UI/ui_confirm_pay.png)
-
-My page![My page](https://github.com/l77l77/group3-ht20/blob/main/Release%202/UI/ui_my_page.png)
-
 ---
 
----
+### <span id="jump">Final UI</span>
+**Search & Accomodation**![Verify](https://github.com/l77l77/group3-ht20/blob/2b467a9f71aee89747b6555ef3044c98b04c52e8/Release%203/Final%20UI/ui-Search-accommodation%20diagram.svg)
+
+&nbsp;
+
+**Sign up & Verification**![Signup](https://github.com/l77l77/group3-ht20/blob/2b467a9f71aee89747b6555ef3044c98b04c52e8/Release%203/Final%20UI/ui_verify_diagram.svg)
 
 ---
-
-Final UI
-
-Verify Diagram[Verify](https://github.com/l77l77/group3-ht20/blob/main/Release%203/Final%20UI/ui_verify_diagram.pdf)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
